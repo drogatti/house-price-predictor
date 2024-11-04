@@ -20,7 +20,7 @@ Repository Structure
    - blended_model.pkl: Blended model combining Ridge and Random Forest predictions.
 - images/: Contains evaluation metrics and visualizations generated during the project.
    - visualizations/: Key plots and graphs used in the analysis and final report.
-- raw_data/: Folder for raw dataset (train.csv).
+- raw_data/: Folder for raw dataset (train.csv). From Kaggle.
 - reports/: Contains final report and slide deck for project documentation.
    - Capstone_Final_Report: Final project report.
    - Capstone_Presentation: Project slide deck (pptx and pdf formats).
