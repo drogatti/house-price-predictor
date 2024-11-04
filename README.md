@@ -3,9 +3,11 @@ Project Overview
 This project focuses on predicting house prices using data from a variety of features such as property characteristics, neighborhood information, and other influential factors. The goal was to develop a model with improved accuracy over baseline predictions by applying advanced regression techniques and blending models. The project includes extensive data preprocessing, feature engineering, and model evaluation to provide reliable predictions for house prices.
 
 Problem Statement
+
 To develop a predictive model that accurately estimates house prices based on a range of input features. The project aims to achieve an RMSE improvement of at least 5% compared to baseline models by leveraging a blended approach.
 
 Repository Structure
+
 - Notebooks/: Contains Jupyter notebooks used for data preprocessing, model training, and evaluation.
    - 02_data_wrangling: Notebook for data cleaning.
    - 03_exploratory_data_analysis: Notebook for feature engineering.
