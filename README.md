@@ -1,7 +1,7 @@
 # House Price Prediction Project
 Project Overview
 
-This project focuses on predicting house prices using data from a variety of features such as property characteristics, neighborhood information, and other influential factors. The goal was to develop a model with improved accuracy over baseline predictions by applying advanced regression techniques and blending models. The project includes extensive data preprocessing, feature engineering, and model evaluation to provide reliable predictions for house prices.
+This project focuses on predicting house prices using data from a variety of features such as property characteristics, neighborhood information, and other influential factors in the area of Ames, Iowa. The goal was to develop a model with improved accuracy over baseline predictions by applying advanced regression techniques and blending models. The project includes extensive data preprocessing, feature engineering, and model evaluation to provide reliable predictions for house prices.
 
 Problem Statement
 
